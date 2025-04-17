@@ -44,8 +44,7 @@ Once you've created your copy of the repository, the README will update with ins
 
 <div align="center">
   <a href="https://github.com/new?template_name=github-project-automation-workshop&template_owner=YOUR_USERNAME" style="display: inline-block; padding: 12px 24px; background-color: #2ea44f; color: white; text-decoration: none; font-weight: bold; border-radius: 6px; margin-top: 20px;">
-    Start the Workshop
+    Start Course
   </a>
 </div>
-
 Happy automating!
