@@ -44,7 +44,7 @@ Once you've created your copy of the repository, the README will update with ins
 
 <div align="center">
   <p>
-    <a href="https://github.com/new?template_name=github-project-automation-workshop&template_owner=YOUR_USERNAME">
+    <a href=https://github.com/new?template_name=Project-Automations-Template&template_owner=CharlieHerbst331>
       <img src="https://img.shields.io/badge/START%20COURSE-%232EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Start Course" />
     </a>
   </p>
