@@ -9,8 +9,7 @@ In this hands-on workshop, you'll discover how to:
 - Create custom project boards tailored to your workflow needs
 - Configure powerful item-based automations that respond to changes in your repository
 - Implement date-based automations to keep your projects on schedule
-- Integrate GitHub Actions for advanced automation scenarios
-- Build a complete end-to-end automated project management system
+
 
 ## Workshop Structure
 
@@ -18,7 +17,6 @@ This repository contains a step-by-step guided experience:
 1. **Creating a Project Board** with custom fields designed for automation
 2. **Setting Up Item-Based Automations** that trigger when issues or PRs change
 3. **Implementing Date-Based Automations** to maintain timely progress
-4. **Connecting GitHub Actions** to your project board for advanced scenarios
 
 Each step builds on the previous one, and the README will automatically update as you complete each section to guide you to the next task.
 
